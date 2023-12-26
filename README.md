@@ -11,7 +11,7 @@
 ### Car Prices - Linear Regression
 [Github](https://github.com/ivianm/portfolio/blob/main/projects/car-prices-linear-regression.ipynb)
 
-In this project a linear regression model was developed to understand the drivers which influence car prices.
+In this project, a linear regression model was developed to understand the drivers which influence car prices.
 Skills/libraries: pandas, numpy, matplotlib, seaborn, statsmodels
 
 ### Credit Card Default - Classification
