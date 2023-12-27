@@ -73,3 +73,21 @@ Skills/libraries: PySpark SQL, pandas
 Using the Apache Spark ML pipeline, we will build a model to predict the price of a diamond based on the available features.
 
 Skills/libraries: PySpark SQL, PySpark ML
+
+## Work Experience
+**Test and Validation Engineer @ Skyjack/Linamar (_April 2021 - Present_)**
+- Executing validation and test procedures on various components and subsystems with strong problem-solving and troubleshooting skills
+- Documenting test findings through comprehensive data analysis and test reports
+- Using data acquisition tools and data analysis software to interpret test results and draw conclusions
+- Visualizing data insights (dashboarding), monitoring performance, and communicating findings to team
+
+
+**Lead Business Analyst @ Strategic Alternatives Management Consulting Inc. (_November 2020 - March 2021_)**
+- Analyzed processes to evaluate opportunities for improvement in future state
+- Evaluated data elements that were inputs and outputs of the process
+- Created a data dictionary to document the data attributes
+
+**Graduate Research Assistant @ The University of Western Ontario (_September 2018 - October 2020_)**
+- Built a model, using linear and non-linear regression analysis, to predict convective heat loss (in terms of free stream turbulence parameters)
+- Analyzed large quantities of data and utilized statistical tools and MATLAB coding to report and validate research results
+- Performed quantitative analysis on Fluent, Star-CCM+ and MATLAB of free stream turbulence and flat plates
